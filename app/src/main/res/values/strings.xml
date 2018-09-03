@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebasePushNotificationDemo</string>
+
+    <string name="SENDER_ID">Put your project Sender id</string>
+    <string name="notifications_admin_channel_name">Android4Dev</string>
+    <string name="notifications_admin_channel_description">Android4Dev Firebase PushNotification</string>
+</resources>
